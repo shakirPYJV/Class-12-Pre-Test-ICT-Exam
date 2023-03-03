@@ -9,5 +9,6 @@ int main()
         area = 0.5*h*b;
         printf("The area is %f",area);
         getch();
-        return 0;S
+        return 0;
+   
     }
