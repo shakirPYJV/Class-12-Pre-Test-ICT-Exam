@@ -1,5 +1,5 @@
 # Class-12-Pre-Test-ICT-Exam
-The solve of Chapter 4 and 5 for my pre-test examination
+The solution for Chapter 4 and 5 of my pre-test examination
 
 Question 3
 ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য a,b,c দেওয়া আছে।
